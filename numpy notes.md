@@ -130,7 +130,7 @@ These are some of the basic formatting options available in GitHub Markdown. Git
 
 
 
-Sure, I can show you how to create a random matrix in NumPy and plot it using `plt.imshow` from Matplotlib. Here's an example:
+How to create a random matrix in NumPy and plot it using `plt.imshow` from Matplotlib. Here's an example:
 
 ```python
 import numpy as np
