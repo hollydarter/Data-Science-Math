@@ -163,3 +163,49 @@ In this example:
 5. We set a title, labels for the x and y axes, and finally, use `plt.show()` to display the plot.
 
 Running this code will generate a random matrix and display it as a heatmap using Matplotlib's `imshow` function.
+
+
+marker points for plt.plot(x,y): 
+import matplotlib.pyplot as plt
+
+x = [1, 2, 3, 4, 5]
+y = [10, 12, 5, 8, 9]
+
+# Plot with different marker types
+plt.figure(figsize=(10, 5))
+
+# Default line plot (no marker)
+plt.plot(x, y, label='No Marker', linestyle='-', color='black')
+
+# Circle markers
+plt.plot(x, y, label='Circle Marker', linestyle='-', marker='o', color='red')
+
+# Square markers
+plt.plot(x, y, label='Square Marker', linestyle='-', marker='s', color='green')
+
+# Triangle up markers
+plt.plot(x, y, label='Triangle Up Marker', linestyle='-', marker='^', color='blue')
+
+# Triangle down markers
+plt.plot(x, y, label='Triangle Down Marker', linestyle='-', marker='v', color='purple')
+
+# Plus markers
+plt.plot(x, y, label='Plus Marker', linestyle='-', marker='+', color='orange')
+
+# Cross markers
+plt.plot(x, y, label='Cross Marker', linestyle='-', marker='x', color='brown')
+
+# Diamond markers
+plt.plot(x, y, label='Diamond Marker', linestyle='-', marker='D', color='magenta')
+
+# Custom marker (unicode star)
+plt.plot(x, y, label='Custom Marker (Star)', linestyle='-', marker='*', color='gray')
+
+plt.xlabel('X-axis')
+plt.ylabel('Y-axis')
+plt.title('Line Plot with Different Marker Types')
+plt.legend()
+plt.grid(True)
+
+plt.show()
+
