@@ -67,7 +67,8 @@ acc_best = 0
 # Perform an optimization loop for a set number of iterations (100,000 times)
 for i in range(100000):
 
-Then, Set the step size for random updates <br>
+#Next: 
+Set the step size for random updates <br>
     Create a random matrix 'm_random' and move it to the GPU <br>
     Update the matrix 'm' with a small random change, <br>
     Calculate predictions 'y' by multiplying 'm' with the dataset 'X'<br>
