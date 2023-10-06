@@ -78,6 +78,7 @@ Set the step size for random updates <br>
     Calculate accuracy by comparing 'y' with the true labels 'Y'<br>
 
 ### Finally, If the new accuracy is better than the previous best, update 'm_best' and 'acc_best'.
+Because this is a random walk model, the number of iterations to reach 75% accuracy changes drastically with every run. From my experience, the number of iterations needed to reach the threshold was between 3000 and 10000. The exact accuracy of each iteration can be seen in the output of the code.
 
 # Conclusion
 This Markdown document outlines the steps and code snippets for solving problem set one in data science mathematics, including loading the MNIST dataset, visualizing images, running a random model, and training a random walk model.
