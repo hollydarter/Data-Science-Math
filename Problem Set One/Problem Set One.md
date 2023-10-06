@@ -20,16 +20,14 @@ def GPU(data): <br>
 def GPU_data(data): <br>
     return torch.tensor(data, requires_grad=False, dtype=torch.float, device=torch.device('cuda'))
 
-# Functions for plotting a montage of images
-def plot(x): <br>
-
-# Code for plotting images <br>
-    pass
-
-def montage_plot(x):<br>
-
 # Code for creating and displaying montages
-    pass
+def plot(x):<br>
+    # Plot images<br>
+    fig, ax = plt.subplots()<br>
+    im = ax.imshow(x, cmap='gray')<br>
+    ax.axis('off')<br>
+    fig.set_size_inches(7, 7)<br>
+    plt.show()<br>
 
 # Downloading and preparing the MNIST dataset
 train_set = datasets.MNIST('./data', train=True, download=True)<br>
