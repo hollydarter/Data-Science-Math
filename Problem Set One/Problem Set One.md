@@ -60,8 +60,21 @@ Y_test = GPU_data(Y_test)<br>
 # Question Three - Training a Random Walk Model
 Here, we transpose the data, create a random matrix, and optimize it to achieve at least 75% accuracy.<br>
 
-# Transposing the data
-X = X.T
+#  First, initialize variables for the best matrix 'm_best' and its accuracy 'acc_best'
+m_best = 0 <br>
+acc_best = 0
+
+# Perform an optimization loop for a set number of iterations (100,000 times)
+for i in range(100000):
+
+### Set the step size for random updates
+### Create a random matrix 'm_random' and move it to the GPU
+### Update the matrix 'm' with a small random change, 
+### Calculate predictions 'y' by multiplying 'm' with the dataset 'X'
+ ### Find the index with the highest value along axis 0 in 'y'
+ ### Calculate accuracy by comparing 'y' with the true labels 'Y'
+
+### Finally, If the new accuracy is better than the previous best, update 'm_best' and 'acc_best'.
 
 # Conclusion
 This Markdown document outlines the steps and code snippets for solving problem set one in data science mathematics, including loading the MNIST dataset, visualizing images, running a random model, and training a random walk model.
