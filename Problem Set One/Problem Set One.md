@@ -7,10 +7,8 @@ This Markdown document outlines a problem set in data science mathematics, inclu
 To begin, we import necessary packages and define functions for data handling and visualization.
 
 # Importing required packages
-import numpy as np  
-
-import matplotlib.pyplot as plt  
-
+import numpy as np <br>
+import matplotlib.pyplot as plt  <br>
 import torch from torchvision 
 import datasets from skimage.util 
 import montage from skimage.io import imread
