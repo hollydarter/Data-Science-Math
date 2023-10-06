@@ -3,7 +3,7 @@
 # Introduction
 This Markdown document outlines a problem set in data science mathematics, including loading the MNIST dataset, visualizing images, and running a random model on MNIST.
 
-## Question One - Load MNIST and Display Montage
+# Question One - Load MNIST and Display Montage
 To begin, we import necessary packages and define functions for data handling and visualization.
 
 # Importing required packages
@@ -45,7 +45,8 @@ X_test = X_test[:, None, :, :] / 255<br>
 
 # Display a montage of images
 montage_plot(X[125:150, 0, :, :])<br>
-Question Two - Running a Random Model (y=mx) on MNIST<br>
+
+# Question Two - Running a Random Model (y=mx) on MNIST<br>
 In this section, we reshape the data, transfer it to the GPU, and perform operations with random matrices.<br>
 
 # Reshaping data for the 'y=mx' model
