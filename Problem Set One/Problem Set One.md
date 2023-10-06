@@ -84,3 +84,7 @@ Because this is a random walk model, the number of iterations to reach 75% accur
 This Markdown document outlines the steps and code snippets for solving problem set one in data science mathematics, including loading the MNIST dataset, visualizing images, running a random model, and training a random walk model.
 
 
+# Link to Colab Notebook
+https://colab.research.google.com/drive/1BzqD0K6OjGMUfRRQSYYBXJZkP0ILnTzo?usp=sharing
+
+
