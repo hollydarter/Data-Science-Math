@@ -9,9 +9,9 @@ To begin, we import necessary packages and define functions for data handling an
 # Importing required packages
 import numpy as np <br>
 import matplotlib.pyplot as plt  <br>
-import torch from torchvision 
-import datasets from skimage.util 
-import montage from skimage.io import imread
+import torch from torchvision <br>
+import datasets from skimage.util <br>
+import montage from skimage.io import imread <br>
 
 # Functions for GPU data handling
 def GPU(data):
