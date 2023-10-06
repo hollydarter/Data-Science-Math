@@ -47,8 +47,6 @@ montage_plot(X[125:150, 0, :, :])
 Question Two - Running a Random Model (y=mx) on MNIST
 In this section, we reshape the data, transfer it to the GPU, and perform operations with random matrices.
 
-python
-Copy code
 # Reshaping data for the 'y=mx' model
 X = X.reshape(X.shape[0], 784)
 X_test = X_test.reshape(X_test.shape[0], 784)
@@ -59,20 +57,14 @@ Y = GPU_data(Y)
 X_test = GPU_data(X_test)
 Y_test = GPU_data(Y_test)
 
-# Code for running the 'y=mx' model on MNIST
-Question Three - Training a Random Walk Model
+## Question Three - Training a Random Walk Model
 Here, we transpose the data, create a random matrix, and optimize it to achieve at least 75% accuracy.
 
-python
-Copy code
 # Transposing the data
 X = X.T
 
 # Code for training a random walk model
 Conclusion
-This Markdown document outlines the steps and code snippets for solving a problem set in data science mathematics, including loading the MNIST dataset, visualizing images, running a random model, and training a random walk model.
+This Markdown document outlines the steps and code snippets for solving problem set one in data science mathematics, including loading the MNIST dataset, visualizing images, running a random model, and training a random walk model.
 
-css
-Copy code
 
-You can save this content in a `.md` file and render it using a Markdown viewer or 
