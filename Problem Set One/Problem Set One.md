@@ -41,7 +41,7 @@ Y_test = test_set.targets.numpy()<br>
 X = X[:, None, :, :] / 255<br>
 X_test = X_test[:, None, :, :] / 255<br>
 
-# Display a montage of images
+### Display a montage of images
 montage_plot(X[125:150, 0, :, :])<br>
 
 # Question Two - Running a Random Model (y=mx) on MNIST<br>
