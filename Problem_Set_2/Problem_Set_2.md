@@ -23,3 +23,12 @@ Experiment with at least 4 different ways of turning the image from color to gra
 ### Method One - Using The luminosity method computes the grayscale value based on the perceived brightness of each channel (R, G, B) as perceived by the human eye. This method takes into account the differences in how our eyes perceive different colors.
 0.21*R + 0.72*G + 0.07*B = The greyscale value <br>
 This method would useful if the greyscale image is going to be looked at by a human because it is a closer representation of what the colored image would look like due to how the human eye percieves color. 
+### Method Two - The average method takes the average of the red blue and green channels for the greyscale value of each pixel
+avg(r,g,b = greyscale value) <br>
+This method is useful since it is a simple and straightforward approach. It has the advantage of being able to be completed in a short amount of time, and efficiently. It is best for a quick visual reference. It also gives a uniform greyscale as each color chanel is given equal weight. 
+### Method Three - The desaturation method calculates the grayscale value by taking the maximum and minimum of the three colors for each pixel and averaging the max and min.
+Greyscale = (max(R,G,B) + min(R,G,B))/2
+This method is useful because it preserves color information. Unlike other conversion methods, this method is able to retain some of the original color information. It also in many cases is visually aesthetic, especially when you want to retain a sense of the original image's color. 
+### Method Four - Single channel greyscale: only using the values from one of the three channel to create a greyscale image. My code used only the r chanel for the greyscale values. 
+greyscale value = r value
+The method is also useful when you need faster processing, or if a image is only one color. The other formulas would skew the greyscale image if the color image is only one color because of the 0s in the other chanels. 
