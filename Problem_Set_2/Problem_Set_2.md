@@ -18,3 +18,6 @@ We then generate 10 random 3D filters and apply them to the resized RGB image. T
 We use matplotlib to create subplots for displaying both the generated filters and the feature maps. For filters, we show each filter individually with its corresponding title, and for feature maps, we display them alongside their titles.<br>
 <br>
 Overall, this code demonstrates a series of image processing tasks, including loading, resizing, grayscale conversion, and convolution with random filters.
+## Extra Credit Question One - Experiment with at least 4 different ways of turning the image from color to grayscale. Explain the technical and qualitative differences of each approach. Speculate as to why you might prefer some over others for certain tasks.
+- Write and test your own convolution function. Compare it to the prewritten function. Explain the steps.
+
