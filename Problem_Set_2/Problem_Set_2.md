@@ -30,5 +30,5 @@ This method is useful since it is a simple and straightforward approach. It has 
 Greyscale = (max(R,G,B) + min(R,G,B))/2
 This method is useful because it preserves color information. Unlike other conversion methods, this method is able to retain some of the original color information. It also in many cases is visually aesthetic, especially when you want to retain a sense of the original image's color. 
 ### Method Four - Single channel greyscale: only using the values from one of the three channel to create a greyscale image. My code used only the r chanel for the greyscale values. 
-greyscale value = r value
+greyscale value = r value <br>
 The method is also useful when you need faster processing, or if a image is only one color. The other formulas would skew the greyscale image if the color image is only one color because of the 0s in the other chanels. 
