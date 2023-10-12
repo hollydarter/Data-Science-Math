@@ -20,4 +20,5 @@ We use matplotlib to create subplots for displaying both the generated filters a
 Overall, this code demonstrates a series of image processing tasks, including loading, resizing, grayscale conversion, and convolution with random filters.
 ## Extra Credit Question One 
 Experiment with at least 4 different ways of turning the image from color to grayscale. Explain the technical and qualitative differences of each approach. Speculate as to why you might prefer some over others for certain tasks. Write and test your own convolution function. Compare it to the prewritten function. Explain the steps.
-
+### Method One - Using The luminosity method computes the grayscale value based on the perceived brightness of each channel (R, G, B) as perceived by the human eye. This method takes into account the differences in how our eyes perceive different colors.
+0.21*R + 0.72*G + 0.07*B = The greyscale value
