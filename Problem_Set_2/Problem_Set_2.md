@@ -21,5 +21,5 @@ Overall, this code demonstrates a series of image processing tasks, including lo
 ## Extra Credit Question One 
 Experiment with at least 4 different ways of turning the image from color to grayscale. Explain the technical and qualitative differences of each approach. Speculate as to why you might prefer some over others for certain tasks. Write and test your own convolution function. Compare it to the prewritten function. Explain the steps.
 ### Method One - Using The luminosity method computes the grayscale value based on the perceived brightness of each channel (R, G, B) as perceived by the human eye. This method takes into account the differences in how our eyes perceive different colors.
-0.21*R + 0.72*G + 0.07*B = The greyscale value
+0.21*R + 0.72*G + 0.07*B = The greyscale value <br>
 This method would useful if the greyscale image is going to be looked at by a human because it is a closer representation of what the colored image would look like due to how the human eye percieves color. 
