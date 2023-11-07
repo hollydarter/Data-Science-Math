@@ -1,4 +1,4 @@
-![image](https://github.com/hollydarter/Data-Science-Math/assets/143565143/8076a86e-a1ed-4ca4-98b8-18e5c948c42e)
+![image](https://github.com/hollydarter/Data-Science-Math/assets/143565143/d2dcce7f-5e70-4d3d-865f-ddb627fc61c0)
 # What is the Virtual Closet Organizer?
 In today's fast-paced world, managing one's wardrobe can be a daunting task. Choosing the right outfit for different occasions, keeping track of clothing items, and planning daily attire can be time-consuming and often frustrating. The Virtual Wardrobe Organizer is a cutting-edge solution designed to simplify the process of managing your clothing collection and enhancing your daily fashion experience.
 # Why It Matters:
