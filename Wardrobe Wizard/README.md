@@ -7,6 +7,7 @@ In today's fast-paced world, managing one's wardrobe can be a daunting task. Cho
 - Sustainability: Make better use of your existing clothes, reducing the need for constant fashion purchases and contributing to a more sustainable lifestyle.
 # How It Works
 Simply upload photos of your clothing items, and our algorithm will categorize them as shirts or pants. Once your wardrobe is digitized, you can start exploring and utilizing its features.
+# What is Alexnet and How do we Use It?
 # Examples of Images you Can Upload
 
 # Future Enhancements
