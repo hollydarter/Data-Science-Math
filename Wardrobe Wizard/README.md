@@ -45,6 +45,13 @@ Wardbrobe Wizard's data deck, composed of 50 images of either shirts or pants.
 
 https://docs.google.com/presentation/d/1w-UwMzHvUYb3D-X_rpMsPCt_y8ej8LpBzYM9ql7BFmc/edit#slide=id.g1ea91ee60e5_0_235
 
+# Results
+Tracking the evolution of our model's performance, the following graphs illustrate the training accuracy (acc_train) and loss throughout multiple training runs
+
+## Accuracy
+![image]()
+![image]()
+
 # Future Enhancements
 We are continuously working to improve the Virtual Wardrobe Organizer. Future updates may include enhanced outfit recommendations, integration with weather forecasts, and the ability to share your wardrobe with friends or fashion stylists.
 
