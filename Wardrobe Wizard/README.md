@@ -31,7 +31,7 @@ Our AlexNet model is trained on a meticulously curated dataset to ensure robust 
       Vs
     </td>
     <td>
-      <img src="https://www.google.com/imgres?imgurl=http%3A%2F%2Fshonajoy.com%2Fcdn%2Fshop%2Fproducts%2FSARA-Tailored-Wide-Leg-Pant.jpg%3Fv%3D1674796021&tbnid=lQZUWD2jlA5p8M&vet=12ahUKEwjt3bfD88OCAxXBM1kFHRNbCAoQMygPegUIARCoAg..i&imgrefurl=https%3A%2F%2Fshonajoy.com%2Fproducts%2Fsara-tailored-wide-leg-pant-black&docid=9KYEtU6I_M1DVM&w=1200&h=1800&q=pants&ved=2ahUKEwjt3bfD88OCAxXBM1kFHRNbCAoQMygPegUIARCoAg" width="200" height="200"> 
+      <img src="https://shonajoy.com/cdn/shop/products/SARA-Tailored-Wide-Leg-Pant.jpg?v=1674796021" width="200" height="200"> 
     </td>
   </tr>
 </table>
