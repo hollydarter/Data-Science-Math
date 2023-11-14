@@ -43,10 +43,11 @@ Our AlexNet model is trained on a meticulously curated dataset to ensure robust 
 # Collected Data
 Wardbrobe Wizard's data deck, composed of 50 images of either shirts or pants. 
 
-https://docs.google.com/presentation/d/1w-UwMzHvUYb3D-X_rpMsPCt_y8ej8LpBzYM9ql7BFmc/edit#slide=id.g1ea91ee60e5_0_235
+<a https://docs.google.com/presentation/d/1w-UwMzHvUYb3D-X_rpMsPCt_y8ej8LpBzYM9ql7BFmc/edit#slide=id.g1ea91ee60e5_0_235>Data Deck </a>
 
 # Results
 <a href="https://colab.research.google.com/drive/1LW18gelJDEHGanZsYtbeAhaSYfz5FnFa#scrollTo=WANJibeUNghZ" >Alexnet Loaded Slides </a>
+
 Tracking the evolution of our model's performance, the following graphs illustrate the training accuracy (acc_train) and loss throughout multiple training runs
 
 ## Accuracy
