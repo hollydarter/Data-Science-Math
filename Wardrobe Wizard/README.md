@@ -22,9 +22,23 @@ Leveraging AlexNet ensures the precision and efficiency of our virtual wardrobe 
  ![image](https://miro.medium.com/v2/resize:fit:960/0*pJ3o_2zTTNnixhKH.png)
 # Data Deck for Alexnet
 Our AlexNet model is trained on a meticulously curated dataset to ensure robust and accurate classification of clothing items in WardrobeWiz.
+<table>
+  <tr>
+    <td>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG0I9-Bno7heabRn7nO6YEPC22BlfmTRQGzA&usqp=CAU" width="200" height="200">
+    </td>
+    <td>
+      Or
+    </td>
+    <td>
+      <img src="https://encrypted-tbn0.gstatic.com/images q=tbn:ANd9GcS_IEcIQypo0cL1K4PkoGVlQiNt2K8e4ifgqzDSH1CndE1kTgrHXKUh344kC4xMON5pogk&usqp=CAU" width="200" height="200"> 
+    </td>
+  </tr>
+</table>
 ## Dataset Composition:
 - *Clothing Diversity:* The dataset encompasses a wide variety of clothing items, capturing diverse styles, patterns, and textures representative of real-world wardrobes.
 - *Image Variation:* We've included images with different angles, lighting conditions, and backgrounds to enhance the model's ability to generalize across various scenarios.
+
 # Future Enhancements
 We are continuously working to improve the Virtual Wardrobe Organizer. Future updates may include enhanced outfit recommendations, integration with weather forecasts, and the ability to share your wardrobe with friends or fashion stylists.
 # Collected Data
