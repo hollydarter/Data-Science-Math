@@ -11,7 +11,8 @@ Simply upload photos of your clothing items, and our algorithm will categorize t
 Wardrobe Wizard integrates AlexNet, a pioneering convolutional neural network, to elevate the accuracy of our image classification. Developed in 2012, AlexNet excels in discerning intricate patterns and features within images.Think of AlexNet as your wardrobe's style detective. With a vast collection of clothing photos, its job is to swiftly sort them into two categories: shirts and pants. It's the key to making your wardrobe organization quick, precise, and hassle-free. 
 ## Why AlexNet Matters:
 - *Image Classification:* AlexNet is the backbone of our algorithm, precisely distinguishing between shirts and pants in your clothing photos.
-- *Feature Extraction:* Its convolutional layers adeptly extract nuanced features crucial for discerning clothing textures.
+- *Feature Extraction:* Its convolutional layers help to accurately distinguish the differences between clothing items.
+ ![image](https://miro.medium.com/v2/resize:fit:960/0*pJ3o_2zTTNnixhKH.png)
 ## How It Works:
 - *Upload Images:*
 Easily upload clothing photos through the WardrobeWiz interface.
@@ -19,7 +20,6 @@ Easily upload clothing photos through the WardrobeWiz interface.
 AlexNet works behind the scenes, automatically categorizing images into shirts and pants.
 - *Effortless Wardrobe Management:*
 Leveraging AlexNet ensures the precision and efficiency of our virtual wardrobe organizer, simplifying your wardrobe management experience.
- ![image](https://miro.medium.com/v2/resize:fit:960/0*pJ3o_2zTTNnixhKH.png)
 # Data Deck for Alexnet
 Our AlexNet model is trained on a meticulously curated dataset to ensure robust and accurate classification of clothing items in WardrobeWiz.
 <table>
@@ -38,9 +38,12 @@ Our AlexNet model is trained on a meticulously curated dataset to ensure robust 
 
 ## Dataset Composition:
 - *Clothing Diversity:* The dataset encompasses a wide variety of clothing items, capturing diverse styles, patterns, and textures representative of real-world wardrobes.
-- *Image Variation:* We've included images with different angles, lighting conditions, and backgrounds to enhance the model's ability to generalize across various scenarios.
+- *Image Variation:* We've included images with different angles, lighting conditions, and backgrounds to enhance the model's ability to differntiate between shirts and pants.
+
+# Collected Data
+Wardbrobe Wizard's data deck, composed of 50 images of either shirts or pants. 
+https://docs.google.com/presentation/d/1w-UwMzHvUYb3D-X_rpMsPCt_y8ej8LpBzYM9ql7BFmc/edit#slide=id.g1ea91ee60e5_0_235
 
 # Future Enhancements
 We are continuously working to improve the Virtual Wardrobe Organizer. Future updates may include enhanced outfit recommendations, integration with weather forecasts, and the ability to share your wardrobe with friends or fashion stylists.
-# Collected Data
-https://docs.google.com/presentation/d/1w-UwMzHvUYb3D-X_rpMsPCt_y8ej8LpBzYM9ql7BFmc/edit#slide=id.g1ea91ee60e5_0_235
+
