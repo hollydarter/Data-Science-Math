@@ -9,7 +9,7 @@ In today's fast-paced world, managing one's wardrobe can be a daunting task. Cho
 Simply upload photos of your clothing items, and our algorithm will categorize them as shirts or pants. Once your wardrobe is digitized, you can start exploring and utilizing its features.
 # What is Alexnet and How do we Use It?
 
-https://www.researchgate.net/publication/334661645/figure/fig1/AS:784354921951233@1564016194521/Schematic-diagram-of-the-AlexNet-structure.png
+![image]https://www.researchgate.net/publication/334661645/figure/fig1/AS:784354921951233@1564016194521/Schematic-diagram-of-the-AlexNet-structure.png
 # Examples of Images you Can Upload
 
 # Future Enhancements
