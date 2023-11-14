@@ -28,10 +28,10 @@ Our AlexNet model is trained on a meticulously curated dataset to ensure robust 
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG0I9-Bno7heabRn7nO6YEPC22BlfmTRQGzA&usqp=CAU" width="200" height="200">
     </td>
     <td>
-      Or
+      Vs
     </td>
     <td>
-      <img src="https://encrypted-tbn0.gstatic.com/images q=tbn:ANd9GcS_IEcIQypo0cL1K4PkoGVlQiNt2K8e4ifgqzDSH1CndE1kTgrHXKUh344kC4xMON5pogk&usqp=CAU" width="200" height="200"> 
+      <img src="https://www.google.com/imgres?imgurl=http%3A%2F%2Fshonajoy.com%2Fcdn%2Fshop%2Fproducts%2FSARA-Tailored-Wide-Leg-Pant.jpg%3Fv%3D1674796021&tbnid=lQZUWD2jlA5p8M&vet=12ahUKEwjt3bfD88OCAxXBM1kFHRNbCAoQMygPegUIARCoAg..i&imgrefurl=https%3A%2F%2Fshonajoy.com%2Fproducts%2Fsara-tailored-wide-leg-pant-black&docid=9KYEtU6I_M1DVM&w=1200&h=1800&q=pants&ved=2ahUKEwjt3bfD88OCAxXBM1kFHRNbCAoQMygPegUIARCoAg" width="200" height="200"> 
     </td>
   </tr>
 </table>
