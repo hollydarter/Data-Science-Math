@@ -50,7 +50,14 @@ Tracking the evolution of our model's performance, the following graphs illustra
 
 ## Accuracy
 ![image]()
+## Loss
 ![image]()
+
+# Run Summary
+- Training accuracy: Achieved an accuracy of -- during training.
+- Loss: Recorded a loss value of --.
+
+The elevated training accuracy underscores Wardrobe Wizard's proficiency in picking between shirts and pants. This high level of accuracy positions Wardrobe Wizard as an intelligent solution for refined wardrobe organization. 
 
 # Future Enhancements
 We are continuously working to improve the Virtual Wardrobe Organizer. Future updates may include enhanced outfit recommendations, integration with weather forecasts, and the ability to share your wardrobe with friends or fashion stylists.
