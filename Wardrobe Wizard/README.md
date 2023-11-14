@@ -20,8 +20,11 @@ AlexNet works behind the scenes, automatically categorizing images into shirts a
 - *Effortless Wardrobe Management:*
 Leveraging AlexNet ensures the precision and efficiency of our virtual wardrobe organizer, simplifying your wardrobe management experience.
  ![image](https://miro.medium.com/v2/resize:fit:960/0*pJ3o_2zTTNnixhKH.png)
-# Examples of Images you Can Upload
-
+# Data Deck for Alexnet
+Our AlexNet model is trained on a meticulously curated dataset to ensure robust and accurate classification of clothing items in WardrobeWiz.
+## Dataset Composition:
+- *Clothing Diversity:* The dataset encompasses a wide variety of clothing items, capturing diverse styles, patterns, and textures representative of real-world wardrobes.
+- *Image Variation:* We've included images with different angles, lighting conditions, and backgrounds to enhance the model's ability to generalize across various scenarios.
 # Future Enhancements
 We are continuously working to improve the Virtual Wardrobe Organizer. Future updates may include enhanced outfit recommendations, integration with weather forecasts, and the ability to share your wardrobe with friends or fashion stylists.
 # Collected Data
