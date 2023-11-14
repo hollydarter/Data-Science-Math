@@ -19,6 +19,7 @@ Easily upload clothing photos through the WardrobeWiz interface.
 AlexNet works behind the scenes, automatically categorizing images into shirts and pants.
 - *Effortless Wardrobe Management:*
 Leveraging AlexNet ensures the precision and efficiency of our virtual wardrobe organizer, simplifying your wardrobe management experience.
+<br>
  ![image](https://miro.medium.com/v2/resize:fit:960/0*pJ3o_2zTTNnixhKH.png)
 # Examples of Images you Can Upload
 
