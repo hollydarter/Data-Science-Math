@@ -62,6 +62,7 @@ Tracking the evolution of our model's performance, the following graphs illustra
 The elevated training accuracy underscores Wardrobe Wizard's proficiency in picking between shirts and pants. This high level of accuracy positions Wardrobe Wizard as an intelligent solution for refined wardrobe organization. 
 
 # Feature Map
+![image](https://user-images.githubusercontent.com/143112521/282343750-baaf59f8-a379-483e-bdd6-95d1d3c7f202.png)
 
 # Future Enhancements
 We are continuously working to improve the Virtual Wardrobe Organizer. Future updates may include enhanced outfit recommendations, integration with weather forecasts, and the ability to share your wardrobe with friends or fashion stylists.
