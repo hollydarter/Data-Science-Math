@@ -34,7 +34,8 @@ Our AlexNet model is trained on a meticulously curated dataset to ensure robust 
       <img src="https://shonajoy.com/cdn/shop/products/SARA-Tailored-Wide-Leg-Pant.jpg?v=1674796021" width="200" height="200"> 
     </td>
   </tr>
-</table>
+</table> 
+
 ## Dataset Composition:
 - *Clothing Diversity:* The dataset encompasses a wide variety of clothing items, capturing diverse styles, patterns, and textures representative of real-world wardrobes.
 - *Image Variation:* We've included images with different angles, lighting conditions, and backgrounds to enhance the model's ability to generalize across various scenarios.
