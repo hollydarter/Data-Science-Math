@@ -8,7 +8,7 @@ In today's fast-paced world, managing one's wardrobe can be a daunting task. Cho
 # How It Works
 Simply upload photos of your clothing items, and our algorithm will categorize them as shirts or pants. Once your wardrobe is digitized, you can start exploring and utilizing its features.
 # What is Alexnet and How do we Use It?
-WardrobeWiz integrates AlexNet, a pioneering convolutional neural network, to elevate the accuracy of our image classification. Developed in 2012, AlexNet excels in discerning intricate patterns and features within images.
+WardrobeWiz integrates AlexNet, a pioneering convolutional neural network, to elevate the accuracy of our image classification. Developed in 2012, AlexNet excels in discerning intricate patterns and features within images. <br>
 **Why AlexNet Matters:**  
 - *Image Classification:* AlexNet is the backbone of our algorithm, precisely distinguishing between shirts and pants in your clothing photos.
 - *Feature Extraction:* Its convolutional layers adeptly extract nuanced features crucial for discerning clothing textures.
