@@ -38,6 +38,23 @@ Several images from the training dataset are randomly selected and plotted along
 
 The AlexNet model is fine-tuned on the Flowers 102 dataset for a specified number of epochs (in this case, 10 epochs). The training progress is printed for each epoch, including training and validation accuracy.
 
+### Training Results
+
+| Epoch | Train Accuracy | Valid Accuracy |
+|-------|----------------|----------------|
+| 1     | 0.12           | 0.26           |
+| 2     | 0.31           | 0.50           |
+| 3     | 0.45           | 0.59           |
+| 4     | 0.53           | 0.70           |
+| 5     | 0.58           | 0.70           |
+| 6     | 0.60           | 0.73           |
+| 7     | 0.64           | 0.75           |
+| 8     | 0.77           | 0.87           |
+| 9     | 0.81           | 0.88           |
+| 10    | 0.82           | 0.89           |
+
 ## Conclusion
 
 This detailed report outlines the steps taken in the Jupyter notebook to fine-tune the AlexNet model on the Flowers 102 dataset. The code is structured and includes comments to explain each section. The notebook provides a comprehensive solution to the specified homework tasks.
+
+[Link to Colab Notebook](https://colab.research.google.com/drive/17AVcW3HjujBEp0VhElI3qhc5jTprf3pO#scrollTo=CnwbXfcisVyA)
