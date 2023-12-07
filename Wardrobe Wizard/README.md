@@ -53,7 +53,7 @@ Tracking the evolution of our model's performance, the following graphs illustra
 ## Accuracy
 ![image])
 ## Loss
-![Loss Chart](https://imgur.com/IyMHyAn)
+![Loss Chart](https://i.imgur.com/IyMHyAn.png)
 
 # Run Summary
 - Training accuracy: Achieved an accuracy of -- during training.
