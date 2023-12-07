@@ -55,7 +55,7 @@ Make sure to install the necessary libraries and tools before running the code. 
 - Define functions for generating truncated normal random numbers.
 - Implement a simple linear model and set up the training loop using the Adam optimizer.
 - Log training accuracy and loss using Weights and Biases (WandB).
-- 
+  
 ## Usage
 
 1. Install the required libraries and tools.
