@@ -51,9 +51,9 @@ Wardbrobe Wizard's data deck, composed of 50 images of either shirts or pants.
 Tracking the evolution of our model's performance, the following graphs illustrate the training accuracy (acc_train) and loss throughout multiple training runs
 
 ## Accuracy
-![image](https://imgur.com/IyMHyAn)
+![image])
 ## Loss
-![image]()
+![Loss Chart](https://imgur.com/IyMHyAn)
 
 # Run Summary
 - Training accuracy: Achieved an accuracy of -- during training.
