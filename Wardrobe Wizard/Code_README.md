@@ -15,10 +15,6 @@ To set up the necessary environment, run the following commands:
 !pip install pdf2image
 !pip install flashtorch
 
-Make sure to import the required Python libraries:
-
-python
-Copy code
 import requests
 from pdf2image import convert_from_path
 import matplotlib.pyplot as plt
