@@ -1,29 +1,26 @@
 # Wardrobe Wizard Project - MAP 2192 - Holly Darter
 
-## Overview
+## Introduction
 
-Welcome to the Wardrobe Wizard Project, part of the MAP 2192 course led by Holly Darter. This project focuses on experiment tracking, PDF manipulation, image conversion, and PyTorch visualization.
+This repository contains code for the Wardrobe Wizard Project developed for MAP 2192 by Holly Darter. The project involves tasks related to image processing, deep learning, and experiment tracking.
 
-## Installation
+## Setup
 
-To set up the necessary environment, run the following commands:
+### Libraries and Tools Installation
 
-```bash
+Make sure to install the necessary libraries and tools before running the code. Use the following commands:
+
+```
 %%capture
 !pip install wandb
 !apt-get install poppler-utils
 !pip install pdf2image
 !pip install flashtorch
 
-import requests
-from pdf2image import convert_from_path
-import matplotlib.pyplot as plt
-import numpy as np
-import torch
-from torchvision import *
-import wandb as wb
+```
+## Python Libraries and Tools
 
-
-
-## PyTorch Setup
-Determine the computing device (GPU or CPU) and create functions for GPU tensor creation:
+- **wandb**: Experiment tracking library.
+- **poppler-utils**: Utilities for working with PDF files.
+- **pdf2image**: Library for converting PDFs to images.
+- **flashtorch**: Tool for visualizing PyTorch models.
