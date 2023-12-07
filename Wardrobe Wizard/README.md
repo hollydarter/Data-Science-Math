@@ -68,5 +68,5 @@ The elevated training accuracy underscores Wardrobe Wizard's proficiency in pick
 We are continuously working to improve the Virtual Wardrobe Organizer. Future updates may include enhanced outfit recommendations, integration with weather forecasts, and the ability to share your wardrobe with friends or fashion stylists.
 
 # Contact Us
-hdarter2023@fau.edu
+Any Questions? No problem! Contact us @ hdarter2023@fau.edu
 
