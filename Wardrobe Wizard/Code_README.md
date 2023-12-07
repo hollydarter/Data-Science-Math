@@ -22,3 +22,8 @@ import numpy as np
 import torch
 from torchvision import *
 import wandb as wb
+
+
+
+## PyTorch Setup
+Determine the computing device (GPU or CPU) and create functions for GPU tensor creation:
