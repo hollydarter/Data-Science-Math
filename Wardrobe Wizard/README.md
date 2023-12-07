@@ -56,8 +56,8 @@ Tracking the evolution of our model's performance, the following graphs illustra
 ![Loss Chart](https://i.imgur.com/IyMHyAn.png)
 
 # Run Summary
-- Training accuracy: Achieved an accuracy of -- during training.
-- Loss: Recorded a loss value of --.
+- Training accuracy: Achieved an accuracy of 0.97 during training.
+- Loss: Recorded a loss value of 	0.34 during training.
 
 The elevated training accuracy underscores Wardrobe Wizard's proficiency in picking between shirts and pants. This high level of accuracy positions Wardrobe Wizard as an intelligent solution for refined wardrobe organization. 
 
